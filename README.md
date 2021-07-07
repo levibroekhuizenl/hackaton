@@ -1,2 +1,2 @@
 # hackaton
-# stap 1 levi maakt alles
+# stap 1 Ali maakt alles
